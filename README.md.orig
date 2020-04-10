@@ -1,0 +1,8 @@
+# Sample Git Repo
+Sample Git Repo
+<<<<<<< HEAD
+More Content.Added extra text in master
+=======
+More Content.
+More Changes
+>>>>>>> develop
